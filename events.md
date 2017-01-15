@@ -6,13 +6,42 @@ subtitle: Software Testing Events.
 
 ## Why attend Events?
 
-Software Testing Conferences are very great place to attend in order to learn and get informed about new tools,techniques and technologies.It is also a place where you will also have chance to make great network opportunities.If you are interested to attend the events or want to know more about them, I have created a list of Testing Events with name,date and location.
+Software Testing Conferences are a very great place to attend to learn and get informed about new tools, techniques, and technologies.It is also a place where you will also have a chance to make great network opportunities.If you are interested in attending the events or wanting to know more about them, I have created a list of Testing Events with name, date, and location.
 
-## Top 2017 Software Testing Events.
+# Top 2017 Software Testing Events.
+
+## The Agile Testing Days USA 2017
+
+
+The Agile Testing Days USA are dedicated to the North, Middle and South American community of Software Testers with an Agile Mindset for constant learning and international networking.
+
+Be ready for three intense days of professional input, deep conversations and a lot of fun. You will leave inspired by many expert talks, hands-on workshops and numerous other activities. It will significantly enhance your daily working processes and business.
+
+The Agile Testing Days originated in Germany, and have been rated Europe’s greatest Agile Software Testing Event and 2nd best Agile Conference worldwide.
+
+Now it’s time to bring the conference to the USA.
+
+We look forward to welcoming you to the first edition of the Agile Testing Days USA.
+
+![usagiletestingdays](https://cloud.githubusercontent.com/assets/10678180/21833018/d12d8970-d774-11e6-9f80-ea1c57400eed.JPG)
+
+<a target="_blank" href="https://agiletestingdays.us/"> https://agiletestingdays.us/</a>
+
+Date: JUNE 19 – 21, 2017
+
+Place:
+DoubleTree by Hilton Hotel Boston North Shore
+50 Ferncroft Rd
+Danvers, MA 01923
+USA
+
+Phone:
+ +1 978-777-2500
+
 
 ## Automation Guild Conference 2017 
 
- **This is a 5 Day Online Conference Dedicated 100% to Test Automation. In this conference 25 + World-Leading Test Automation Experts will Share Their Secrets.**
+**This is a 5 Day Online Conference Dedicated 100% to Test Automation. In this conference 25 + World-Leading Test Automation Experts will Share Their Secrets.**
 
 ![automationguild](https://cloud.githubusercontent.com/assets/10678180/20657230/e6f0ea38-b4f9-11e6-9b5d-6457e1461bdb.JPG)
 
@@ -26,9 +55,8 @@ Learn more about the Automation Guild conference by checking out the Automation 
 
 <a href="https://automationguild.com/sessions/"> https://automationguild.com/sessions/</a>
 
-=========================================================================================================== 
 
-## Top 2016 Software Testing Events.
+# Top 2016 Software Testing Events.
 
 ## Online Test Conference First 
 
@@ -113,3 +141,6 @@ Conference URL: <a target="_blank" href="https://stareast.techwell.com/"> https:
 Date: May 1 - 6 
 
 Venue: Renaissance Orlando at Sea World :  ORLANDO , FLORIDA
+
+
+https://www.youtube.com/watch?v=at7a7-dIGhY&list=PLg74w4qP0mfG6dxeLw8vrHQGu9Yt4gwp-

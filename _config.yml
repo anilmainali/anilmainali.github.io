@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: New Kid in Software Testing World!
+title: Anil Mainali Notes
 
 # Short description of your site
 description: My personal Software Testing Journal!
@@ -24,11 +24,12 @@ description: My personal Software Testing Journal!
 # List of links in the navigation bar
 navbar-links:
   Author's home: "https://anilmainali.github.io/"
+  Blog: "https://anilmainali.github.io/"
   About Me: "aboutme"
   Events: "events"
   Resources:
     - Free E-Books: ""
-    - Events: ""
+    - Events: "https://anilmainali.github.io/events/"
     - Performance Testing: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
