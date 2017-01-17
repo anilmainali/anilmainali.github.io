@@ -34,9 +34,11 @@ Now you have opened command prompt successfully as an administrator.
 
 0. Navigate to the URL: https://chocolatey.org/
  
-   ![04_clickinstall](https://cloud.githubusercontent.com/assets/10678180/17673753/350b31f6-62e8-11e6-8551-0a732c28ab67.png)
+   ![choco_clickinstall_02](https://cloud.githubusercontent.com/assets/10678180/22045188/5d00ccdc-dcde-11e6-892f-ec89796d1fe5.png)
 
 0. Click on Install.
+
+   ![choco_clickmoreoptions_03](https://cloud.githubusercontent.com/assets/10678180/22045235/97e23d7c-dcde-11e6-924f-ad0598f2e19e.png)
 
 0. Click on More Options under More Install Options 
 
