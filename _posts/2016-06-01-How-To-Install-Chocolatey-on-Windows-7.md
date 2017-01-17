@@ -38,7 +38,9 @@ Now you have opened command prompt successfully as an administrator.
 
 0. Click on Install.
 
-   ![05_copyicon](https://cloud.githubusercontent.com/assets/10678180/17673755/350f5c86-62e8-11e6-859e-a3236f595c94.png)
+0. Click on More Options under More Install Options 
+
+![05_copyicon](https://cloud.githubusercontent.com/assets/10678180/17673755/350f5c86-62e8-11e6-859e-a3236f595c94.png)
 
 0. Click on the Copy Icon image next to  Cmd.exe-  
 
@@ -65,7 +67,9 @@ Now you have opened command prompt successfully as an administrator.
 
 0. It downloads the Chocolatey and adds to the Windows Path system **C:\ProgramData\chocolatey\bin** and it is ready to use.
 
-Example Install:CC Cleaner
+Since chocolatey is installed in our machine.Let us try to Install CC Cleaner as a demo with the help of using chocolatey.
+
+Follow these steps:
 
 0. Navigate to https://chocolatey.org/packages
 
@@ -75,11 +79,15 @@ Example Install:CC Cleaner
 
    ![09_searcha-copycode](https://cloud.githubusercontent.com/assets/10678180/17673757/35192734-62e8-11e6-9755-dbd24c6b9443.png)
    
+   At the time of writing this tutorial the latest version of CCleaner was 5.20.5668. You might see a new version now.
+   
 0. Copy the code : 
 
    ```
       choco install ccleaner
    ```
+   
+  Do not copy C:\> which is infront of the code.
 
    ![10_searchb-pastecode](https://cloud.githubusercontent.com/assets/10678180/17673761/35215990-62e8-11e6-8a86-d2cd963cc78c.png)
 
@@ -98,3 +106,5 @@ Example Install:CC Cleaner
    ![13_searche_successful](https://cloud.githubusercontent.com/assets/10678180/17673760/3520bd28-62e8-11e6-89af-5e6a531c9739.png)
 
 0. The install of ccleaner was successful message appears.
+
+Congratulations! 
