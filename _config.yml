@@ -23,7 +23,7 @@ description: My personal Software Testing Journal!
 
 # List of links in the navigation bar
 navbar-links:
-  Author's home: "https://anilmainali.github.io/"
+  Home: "https://anilmainali.github.io/"
   Tutorials: "https://anilmainali.github.io/"
   About Me: "aboutme"
   Events: "events"
