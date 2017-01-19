@@ -24,11 +24,11 @@ Please follow the below steps:
   Note: You will be prompted with another screen. 
 
 
-    ![ij_04_clickonjava8link](https://cloud.githubusercontent.com/assets/10678180/22097702/217626fc-dde8-11e6-9e47-2f605a6b1c47.png)
+     ![ij_04_clickonjava8link](https://cloud.githubusercontent.com/assets/10678180/22097702/217626fc-dde8-11e6-9e47-2f605a6b1c47.png)
 
 0. Click on Java8 link
 
-    ![ij_05_freejavadownloadlink](https://cloud.githubusercontent.com/assets/10678180/22097705/217c1120-dde8-11e6-85b4-8c36a551cce2.png)
+     ![ij_05_freejavadownloadlink](https://cloud.githubusercontent.com/assets/10678180/22097705/217c1120-dde8-11e6-85b4-8c36a551cce2.png)
 
 0. Click on Free Java Download button.
 
