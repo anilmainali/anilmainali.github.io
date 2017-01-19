@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Download and Install Java on Windows 7
+title: How to Download and Install Java Runtime Environment (JRE) on Windows 7
 subtitle: Make sure Java is installed on your PC. 
 tags: [Installation,Java]
 bigimg: /img/path.jpg
