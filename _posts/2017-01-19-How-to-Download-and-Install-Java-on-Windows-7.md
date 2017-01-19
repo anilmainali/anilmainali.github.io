@@ -21,7 +21,7 @@ Please follow the below steps:
 0. Click on Download Java link
 
 
-  Note: You will be prompted with another screen. 
+    Note: You will be prompted with another screen. 
 
 
      ![ij_04_clickonjava8link](https://cloud.githubusercontent.com/assets/10678180/22097702/217626fc-dde8-11e6-9e47-2f605a6b1c47.png)
@@ -61,7 +61,7 @@ Please follow the below steps:
 
     ![ij_12_javasetupprogressbar](https://cloud.githubusercontent.com/assets/10678180/22097710/21ad468c-dde8-11e6-83b2-434f955c3772.png)
 
-Note: Java Setup- progress starts
+  Note: Java Setup- progress starts
 
     ![ij_13_clickclose](https://cloud.githubusercontent.com/assets/10678180/22097711/21b16316-dde8-11e6-9f81-f8e79fd3f391.png)
 
