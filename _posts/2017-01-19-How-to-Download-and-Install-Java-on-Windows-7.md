@@ -67,4 +67,4 @@ Note: Java Setup- progress starts
 
 0. Click Close.
 
-Congratulations, You have successfully downloaded and installed Java on your Windows Machine.
+Congratulations, You have successfully downloaded and installed Java on your Windows Machine. 
