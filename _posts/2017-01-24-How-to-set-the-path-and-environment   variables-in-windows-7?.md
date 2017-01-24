@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to Download and Install Java-Development-Kit (JDK) on Windows 7
-subtitle: Get ready to start some Java coding! 
-tags: [Installation,Java-Development-Kit (JDK)]
+title: How to set the path and environment variables in windows 7?
+subtitle: Fix 'javac' is not recognized as an operable program or batch file.
+tags: [Java Path,Java environment, Java-Development-Kit (JDK)]
 bigimg: /img/path.jpg
 ---
 
