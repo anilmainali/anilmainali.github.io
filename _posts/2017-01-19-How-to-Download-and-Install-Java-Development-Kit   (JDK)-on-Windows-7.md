@@ -33,14 +33,14 @@ Tips : In my case, I am using windows 64-bit operating system. If you are not su
 
 Click on **jdk-8u121-windows-x64.exe** next to Windows x64 and begin the download process.
 
-   ![03b_jsedk__starttodownload](https://cloud.githubusercontent.com/assets/10678180/22406427/99a30b58-e618-11e6-957b-9ad13fc26e46.png)
-
 Note: jdk-8u121-windows-x64.exe installer is downloaded. 
 
    ![04_jsedk__clickarrowclickopen](https://cloud.githubusercontent.com/assets/10678180/22406428/99a47d4e-e618-11e6-85d7-5fd8b28797e6.png)
 
 Click on dropdown arrow and Click on Open. 
 
+   ![03b_jsedk__starttodownload](https://cloud.githubusercontent.com/assets/10678180/22406427/99a30b58-e618-11e6-957b-9ad13fc26e46.png)
+   
 Notes: Installation process starts.
 
 Click yes for User Account Control dialog.
