@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to set the path and environment variables in windows 7?
+title: How To Install Homebrew on MacOS?
 subtitle: Package manager for macOS.
 tags: [MacOS, Package Manager for MacOS]
 bigimg: /img/path.jpg
