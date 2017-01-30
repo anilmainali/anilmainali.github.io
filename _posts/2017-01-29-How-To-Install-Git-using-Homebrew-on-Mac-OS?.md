@@ -48,8 +48,7 @@ Note: Response code.
 Anils-MBP:~ anilmainali$ git --version
 git version 2.11.0
 Anils-MBP:~ anilmainali$ 
+```
 
 Congratulations! You have successfully installed Git on your Mac.
 
-
-```
