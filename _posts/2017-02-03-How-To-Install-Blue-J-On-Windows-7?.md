@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To-Install Blue J On Windows 7?
-subtitle:Java playground for Begineers.
+subtitle: Java playground for Begineers.
 tags: [Java IDE, Install Blue J on Windows, Installation]
 bigimg: /img/path.jpg
 ---
