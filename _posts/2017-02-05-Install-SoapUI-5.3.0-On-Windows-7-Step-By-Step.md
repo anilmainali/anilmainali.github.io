@@ -72,16 +72,17 @@ Note: Installation starts.
 
 Click Finish.
 
-
    ![13a_inssoupuireleasenotes](https://cloud.githubusercontent.com/assets/10678180/22627771/085d1ee2-eb8e-11e6-87ae-1359cccb1ca7.png)
 
 Released notes will be presented.After reading close the document by clicking x.
 
    ![13b_inssoupuiusesstat](https://cloud.githubusercontent.com/assets/10678180/22627772/085dd512-eb8e-11e6-81df-ef15e4374514.png)
-   
-   ![13c_inssoupuisignupupdates](https://cloud.githubusercontent.com/assets/10678180/22627773/085dfa9c-eb8e-11e6-8273-85f3de64aae5.png)
-
+  
 Click Yes or No according to your preference.
+
+   ![13c_inssoupuisignupupdates](https://cloud.githubusercontent.com/assets/10678180/22627773/085dfa9c-eb8e-11e6-8273-85f3de64aae5.png)
+   
+Sign up for promotions by entering your name and email address or Click Skip.
 
    ![14_inssoupuisoupuiscreen](https://cloud.githubusercontent.com/assets/10678180/22627774/0869f216-eb8e-11e6-8dc9-4b20b2b89689.png)
 
