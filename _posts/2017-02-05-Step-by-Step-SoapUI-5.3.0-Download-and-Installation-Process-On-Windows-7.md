@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install SoapUI 5.3.0 On Windows 7-Step-By-Step
+title: Step by Step SoapUI 5.3.0 Download and Installation Process On Windows 7
 subtitle: Open Source API testing tool for SOAP and REST APIs.
 tags: [SoapUI, Install SoapUI on Windows, Installation, Web Services, API ]
 bigimg: /img/path.jpg
