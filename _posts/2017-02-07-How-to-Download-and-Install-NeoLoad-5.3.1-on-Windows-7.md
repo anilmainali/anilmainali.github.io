@@ -82,6 +82,8 @@ Note: Save the License in the safe place. You will need this later.
 
 Note : Click I Agree for terms and conditions.
 
+    ![01_rightclick](https://cloud.githubusercontent.com/assets/10678180/22747529/ef5d0dec-edec-11e6-8815-f2e7e8b8b045.png)
+
 2. After the installer is downloaded, click on drop down arrow and select and click Show in folder.
 
      ![05_dl_runasadmin](https://cloud.githubusercontent.com/assets/10678180/19221442/6dfe177a-8e09-11e6-85a6-8104ef45e2cf.png)
@@ -97,32 +99,37 @@ Note: Click Yes for User Account Control.
 
 5. Click OK for Language.
 
+    ![02_clicknextforwelcomescreen](https://cloud.githubusercontent.com/assets/10678180/22747530/ef680738-edec-11e6-9c14-9c8c9af7c62e.png)
+
 
 6. Click Next for Welcome screen.
 
-     
+    ![03_select_iaccept](https://cloud.githubusercontent.com/assets/10678180/22747531/ef69f5ac-edec-11e6-8681-fc27811e7ff3.png)   
 
 7. Select I accept the agreement and select Next.
 
-     
+    ![04_selectdefaultcontroller](https://cloud.githubusercontent.com/assets/10678180/22747532/ef6c5126-edec-11e6-9bd9-9f5a9fd657d8.png)   
 
 8. Select default Controller (recommended) and Click Next.
 
-     
+    ![05_defaultdestinationnext](https://cloud.githubusercontent.com/assets/10678180/22747533/ef6c6d32-edec-11e6-937d-8df0a96eb93c.png)     
 
 9. Click next for default destination or choose the desire destination and Click next. 
        In our case let us select the default destination.
 
-     
+    ![06_clicknextforstartmenufolder](https://cloud.githubusercontent.com/assets/10678180/22747534/ef6e66dc-edec-11e6-9f91-e7d3cc9f0ee0.png) 
 
 10. Click Next.
 
+    ![07_clicknext_forwan](https://cloud.githubusercontent.com/assets/10678180/22747535/ef71d902-edec-11e6-8643-eada2436acef.png)
 
 11. Click Next for WAN Emulation driver installation screen.
 
-     
+     ![08_installationbegins](https://cloud.githubusercontent.com/assets/10678180/22747536/ef7eb4c4-edec-11e6-998e-d15573f33b09.png)
 
-      Extracting begins …
+Extracting begins …
+
+     ![09_clickfinish](https://cloud.githubusercontent.com/assets/10678180/22747537/ef82c97e-edec-11e6-83ba-29d0c1e73bf4.png)
 
 12. Click Finish.
 
