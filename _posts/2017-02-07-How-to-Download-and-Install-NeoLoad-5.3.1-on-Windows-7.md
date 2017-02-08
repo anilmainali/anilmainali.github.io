@@ -99,7 +99,7 @@ Note: Click Yes for User Account Control.
 
 5. Click OK for Language.
 
-    ![02_clicknextforwelcomescreen](https://cloud.githubusercontent.com/assets/10678180/22747530/ef680738-edec-11e6-9c14-9c8c9af7c62e.png)
+    ![02_clicknextforwelcomescreen](https://cloud.githubusercontent.com/assets/10678180/22747530/ef680738-edec-11e6-9c14-9c8c9af7c62e.png) 
 
 
 6. Click Next for Welcome screen.
