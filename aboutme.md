@@ -24,6 +24,7 @@ You can reach me at mainalidfw@gmail.com
 - <a target="_blank" href="https://techbeacon.com/"> https://techbeacon.com/ </a> - Tech Beacon
 - <a target="_blank" href="http://blog.qamentor.com/"> http://blog.qamentor.com/ </a> - QA Mentor
 - <a target="_blank" href="http://moolya.com/ "> http://moolya.com/  </a> - Pradeep Soundararajan
+- <a target="_blank" href="https://simpleprogrammer.com/"> https://simpleprogrammer.com/  </a> - John Sonmez
 - <a target="_blank" href="http://enjoytesting.blogspot.in/ "> http://enjoytesting.blogspot.in/  </a> - AJAY BALAMURUGADAS
 
 ## My Favourite quote:
