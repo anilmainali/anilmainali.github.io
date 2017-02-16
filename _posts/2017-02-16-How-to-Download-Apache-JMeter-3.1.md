@@ -137,13 +137,9 @@ Note:If Java is not installed at all on your machine then you can follow this do
 
 0. Now you have to unzip the file. Click on **Extract all files**
 
-   ![06_selectandextract](https://cloud.githubusercontent.com/assets/10678180/23039368/ee039120-f452-11e6-93a5-a7333d96e219.png)  
-
 0. Select a Destination and Extract Files dialog box opens.
-
-
  
-
+![06_selectandextract](https://cloud.githubusercontent.com/assets/10678180/23039368/ee039120-f452-11e6-93a5-a7333d96e219.png)  
 
 0. Click on **Browse** , select a destination where you want to place your JMeter File and Click on **Extract*
 
