@@ -159,40 +159,36 @@ Note:If Java is not installed at all on your machine then you can follow this do
 Congratulation ! You have successfully installed JMeter 3.1 on Wondows 7. We will learn how to open the JMeter tool in Step 3. 
 
 ### Step 3 — Open JMeter
+   
+    ![08_extractsundersoftware](https://cloud.githubusercontent.com/assets/10678180/23039370/ee0d4a9e-f452-11e6-99d6-bb3532d4b245.png)
 
+0. Navigate to the folder where you had previously unzipped and saved your JMeter file. For Example: In my case - I navigate to windows >Computer>Windows7_OS(C:)>Software
 
-   ![01_navigate](https://cloud.githubusercontent.com/assets/10678180/17460092/82449f0c-5c1c-11e6-9f3f-03313ddf9387.png)
+   ![08_extractsundersoftware](https://cloud.githubusercontent.com/assets/10678180/23039370/ee0d4a9e-f452-11e6-99d6-bb3532d4b245.png)
 
+0. Select **apache-jemeter-3.1** folder and double click.
 
-0. Navigate to the folder where you had previously unzipped and saved your JMeter file. For Example: In my case - I Click ed on windows >Computer>Windows7_OS(C:)>Software
-
-   ![02_select](https://cloud.githubusercontent.com/assets/10678180/17460095/890430a0-5c1c-11e6-9a0f-7ffc0a78ff5e.png)
-
-0. Select **apache-jemeter-3.0** folder and double click.
-
-   ![03_binfolder](https://cloud.githubusercontent.com/assets/10678180/17460097/8ec604f0-5c1c-11e6-8487-a67117efdadf.png)
+   ![09_bin-2](https://cloud.githubusercontent.com/assets/10678180/23040823/5bb57828-f458-11e6-9b0f-b24012a118c7.png)
 
 0. Double Click on **bin folder**
 
-   ![04_batfile](https://cloud.githubusercontent.com/assets/10678180/17460098/947726ea-5c1c-11e6-8322-9036bb665c61.png)
+   ![10_bat](https://cloud.githubusercontent.com/assets/10678180/23040824/5bb61530-f458-11e6-9bab-4e85c8212a4b.png)
 
 0. Double Click on **jmeter.bat file**
 
-   ![05_run](https://cloud.githubusercontent.com/assets/10678180/17460099/9afb626a-5c1c-11e6-836e-3d681acd6b42.png)
+   ![11_run](https://cloud.githubusercontent.com/assets/10678180/23040828/5bbbc44e-f458-11e6-98c0-f5385182a3a3.png) 
 
 0. Click on **Run** from the pop up window.
 
-    ![06_cmd](https://cloud.githubusercontent.com/assets/10678180/17460100/a08dfb98-5c1c-11e6-86e0-899fd9400936.png)
-   
+   ![12_commandline](https://cloud.githubusercontent.com/assets/10678180/23040827/5bb935e4-f458-11e6-8790-dc38eed86688.png)    
 
 0. Command line interface pops up. 
 
 
- Note: Do not close the command line pop up.
+ Note: Do not close the command line pop up.Minimize it.
 
+   ![13_jmeterinterface](https://cloud.githubusercontent.com/assets/10678180/23040830/5c364d18-f458-11e6-9bc0-df8d390f4bbc.png)
 
-   ![07_jmeterinterface](https://cloud.githubusercontent.com/assets/10678180/17460102/a72bd9c0-5c1c-11e6-8be9-64e9c2656541.png)
-  
 0. After couple of seconds, Apache JMeter interface opens.
 
 
