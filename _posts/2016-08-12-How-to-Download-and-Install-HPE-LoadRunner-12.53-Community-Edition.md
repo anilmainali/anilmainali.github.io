@@ -107,9 +107,9 @@ Step 4 - Explore and Download HP LoadRunner 12.53 Community Edition Additional C
 
 0. Click on HP LoadRunner 12.53 Community Edition Additional Components to download file
     
-         HP_LoadRunner_12.53_Community_Edition_Additional_Components_HPLR_1253_Community_Edition_Additional_Components.zip
+     HP_LoadRunner_12.53_Community_Edition_Additional_Components_HPLR_1253_Community_Edition_Additional_Components.zip
 
-      ![15a_downloadconfirm](https://cloud.githubusercontent.com/assets/10678180/17647382/5028a652-61b3-11e6-86da-60e01b4789a5.png)
+![15a_downloadconfirm](https://cloud.githubusercontent.com/assets/10678180/17647382/5028a652-61b3-11e6-86da-60e01b4789a5.png)
 
           The above message appears and Download begins for Additional Components
                           
