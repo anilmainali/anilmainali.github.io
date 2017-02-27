@@ -68,7 +68,7 @@ Step 3 - Explore and Download HP Community Edition Installer.
 ----------------------------------------------
 
 
-     ![08_exploreloadrunner](https://cloud.githubusercontent.com/assets/10678180/17647372/50175c26-61b3-11e6-95b6-7988c7cfba25.png)
+   ![08_exploreloadrunner](https://cloud.githubusercontent.com/assets/10678180/17647372/50175c26-61b3-11e6-95b6-7988c7cfba25.png)
 
 0. From Explore select and Click on LoadRunner. 
 
