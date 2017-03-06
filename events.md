@@ -10,6 +10,27 @@ Software Testing Conferences are a very great place to attend to learn and get i
 
 # Top 2017 Software Testing Events.
 
+## Quality Jam Conference ATL 2017
+
+> Quality Jam 2017, QASymphony’s Software Testing Conference, is back and better than ever!  This two-day event will feature all-star
+> speakers, hands-on product training and the opportunity to network with the leading minds in software testing.  Additionally, leaders > from QASymphony will be sharing the product roadmap for 2017.
+
+> The goal is to provide you with ideas, insights and practical knowledge to help you improve the speed and quality of software that
+> your company creates
+
+Date: April 18-19, 2017
+
+Place:
+DoubleTree by Hilton Hotel Boston North Shore
+50 Ferncroft Rd
+Danvers, MA 01923
+USA
+
+Phone:
+ +1 978-777-2500
+
+18-19, 2017
+
 ## The Agile Testing Days USA 2017
 
 
