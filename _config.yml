@@ -28,7 +28,6 @@ navbar-links:
   About Me: "aboutme"
   Events: "events"
   Resources:
-    - Free E-Books: ""
     - Events: "https://anilmainali.github.io/events/"
     - Performance Testing: ""
 
